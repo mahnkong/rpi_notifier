@@ -5,3 +5,5 @@ import:
   subpackages:
   - drivers/gpio
   - platforms/raspi
+- package: github.com/gorilla/mux
+  version: ~1.6.1

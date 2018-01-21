@@ -1,10 +1,10 @@
-hash: 30ff8e9d93d0d8503f0712ec928351837affc078c455d4b2c3b54a92a23d6705
-updated: 2018-01-20T15:33:07.254323057+01:00
+hash: cd4fed03cacc7d298be89c3848896859de565b0f7c7864a50fe43aa64ed23140
+updated: 2018-01-21T16:11:55.164504187+01:00
 imports:
 - name: github.com/gorilla/context
   version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
 - name: github.com/gorilla/mux
-  version: c0091a029979286890368b4c7b301261e448e242
+  version: 53c1911da2b537f792e7cafcb446b05ffe33b996
 - name: github.com/hashicorp/errwrap
   version: 7554cd9344cec97297fa6649b055a8c98c2a1e55
 - name: github.com/hashicorp/go-multierror
