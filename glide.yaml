@@ -1,0 +1,7 @@
+package: .
+import:
+- package: gobot.io/x/gobot
+  version: ~1.8.0
+  subpackages:
+  - drivers/gpio
+  - platforms/raspi
